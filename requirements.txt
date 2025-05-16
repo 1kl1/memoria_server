@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+firebase-admin
+python-jose
+python-multipart
+passlib
+pydantic
+python-dotenv
+pydantic_settings
+sqlalchemy
+pydantic[email]
+neo4j
+langchain
+langchain-anthropic
+image
+psycopg2-binary
+alembic
